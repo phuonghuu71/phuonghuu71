@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @phuong
-- 👀 I’m interested in play games
-- 🌱 I’m currently learning Next.JS, Typescript.
 - 📫 How to reach me https://www.facebook.com/huuphuong.24.12.2k/
 
 <!---
